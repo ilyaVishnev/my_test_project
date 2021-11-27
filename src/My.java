@@ -5,5 +5,6 @@ public class My {
         System.out.println("fetch");
         System.out.println("sec fetch");
         System.out.println("third fetch");
+        System.out.println("1 --------------------------------------------------");
     }
 }
